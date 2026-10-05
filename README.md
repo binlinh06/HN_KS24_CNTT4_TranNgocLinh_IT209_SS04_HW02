@@ -1,6 +1,6 @@
 # Bài 2: Quản lý nhánh và giải quyết xung đột
 
-## Các bước thực hiện
+## Các bước thực hiện haaaaaa
 
 1. Tạo nhánh `feature-update` từ `main`.
 2. Chỉnh sửa file `README.md` trên nhánh `feature-update`.
